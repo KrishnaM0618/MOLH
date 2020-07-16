@@ -1,5 +1,5 @@
 # MOLH
-Localization helper for iOS apps mainly focusing on the LTR/RTL issue
+Localization helper for iOS apps
 
 # Install
 Add `pod 'MOLH'` to your podfile. (check https://cocoapods.org/ for more info about cocoapods)
